@@ -2,7 +2,7 @@
  [ ![Download](https://api.bintray.com/packages/nicolkill/android/Validator/images/download.svg) ](https://bintray.com/nicolkill/android/Validator/_latestVersion)
  [![Build Status](https://travis-ci.org/nicolkill/Validator.svg?branch=master)](https://travis-ci.org/nicolkill/Validator)
 
-**Validator** is a library that help to make validations easy, with the custom edit text .
+**Validator** is a library that help to make validations easy, with the custom edit text or just the validator class.
 
 ## Features
   - Easy implementation
