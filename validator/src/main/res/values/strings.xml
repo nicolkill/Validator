@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Validator</string>
+    <string name="field_not_empty">Este campo no puede estar vacío</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ValidatorExample</string>
+    <string name="action_settings">Settings</string>
+
+    <!--text-->
+    <string name="mail">Mail</string>
+    <string name="name">Nombre</string>
+
+    <!--invalid messages-->
+    <string name="invalid_mail">Mail no valido</string>
+    <string name="invalid_name">Nombre no valido</string>
+</resources>
